@@ -2,7 +2,7 @@ DLC MOD
 =======
 
 Not a Crate nor a Library.
-A module you should install manually and freely edit.
+A module you should install manually and edit.
 
 # Install
 
